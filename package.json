@@ -1,0 +1,17 @@
+{
+  "name": "image-edit-api",
+  "version": "1.0.0",
+  "description": "An API to edit images using text prompts and Replicate (Stable Diffusion).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mahi--",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
